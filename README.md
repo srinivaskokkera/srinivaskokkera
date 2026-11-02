@@ -155,38 +155,10 @@ Intelligent Applications
 
 <!-- ========== GITHUB ANALYTICS ========== -->
 
-## 📊 GitHub Analytics
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=srinivaskokkera&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=srinivaskokkera&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaskokkera&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=srinivaskokkera&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=10" width="100%" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivaskokkera&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
+  <img src="./github-metrics.svg" width="100%" />
 </div>
 
 ---
