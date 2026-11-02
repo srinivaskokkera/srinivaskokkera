@@ -46,15 +46,21 @@
 
 ## 📊 GitHub Analytics
 
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=srinivaskokkera&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=srinivaskokkera&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivaskokkera&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=srinivaskokkera&theme=tokyonight&hide_border=true" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaskokkera&layout=compact&theme=tokyonight&hide_border=true" />
+<br/>
+
+<img width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=srinivaskokkera&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ## 🎯 Current Focus
 
