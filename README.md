@@ -1,16 +1,90 @@
-## Hi there 👋
+#
+<div align="center">
 
-<!--
-**srinivaskokkera/srinivaskokkera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Srinivas Kokkera 👋
 
-Here are some ideas to get you started:
+### Electronics Engineer | Software Developer | VLSI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Exploring+the+World+of+Technology;Building+Full+Stack+Applications;Learning+Digital+Design+%26+VLSI;Turning+Ideas+Into+Innovation" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 ECE graduate-in-progress / Electronics Engineer
+- 💻 Passionate about Software Development
+- ⚡ Exploring Digital Electronics and VLSI Design
+- 🤖 Interested in Artificial Intelligence and RAG
+- 🚀 Love building projects and solving problems
+- 🌱 Always learning, building and experimenting.
+
+## 🧰 Technologies & Tools
+
+**Programming**
+ 
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
+
+**Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,mongodb" />
+
+**Electronics & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,verilog" />
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🎓 EduReach | Full-stack educational platform |
+| 🌾 AgriPrice Tracker | Agricultural price intelligence |
+| 🔍 WikiSearch | Search-based web application |
+| ⚡ CTS Optimization | Genetic algorithm-based optimization |
+| 🤖 Fraud Detection | Machine learning project |
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=srinivaskokkera&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=srinivaskokkera&theme=tokyonight&hide_border=true" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivaskokkera&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 🎯 Current Focus
+
+- Digital Electronics & Verilog
+- RTL Design and VLSI Fundamentals
+- Data Structures and Algorithms
+- Full Stack Development
+- AI-powered Applications
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/srinivaskokkera">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/srinivaskokkera">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Think. Build. Innovate."
+
+<img src="https://komarev.com/ghpvc/?username=srinivaskokkera&style=flat-square&color=blue" />
+
+</div>
+
