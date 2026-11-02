@@ -70,74 +70,53 @@ I love turning ideas into practical projects, experimenting with new technologie
 
 <!-- ========== PROJECTS ========== -->
 
-## 🚀 Featured Projects
+
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎓 EduReach
-
-A full-stack educational platform with authentication and intelligent features.
-
-**Tech:** MERN, TypeScript, JWT, RAG
+<h3>🎓 EduReach</h3>
+<p>Full-stack educational platform with authentication and intelligent features.</p>
+<b>Tech:</b> MERN, TypeScript, JWT, RAG
 
 </td>
 <td width="50%">
 
-### 🌾 AgriPrice Tracker
-
-An agricultural price intelligence platform for historical analysis and price prediction.
-
-**Tech:** Python, JavaScript, Data Visualization
+<h3>🌾 AgriPrice Tracker</h3>
+<p>Agricultural price intelligence platform for historical analysis and price prediction.</p>
+<b>Tech:</b> Python, JavaScript, Data Visualization
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
-### 🔍 WikiSearch
-
-A web-based search application designed for a better information discovery experience.
-
-**Tech:** HTML, CSS, JavaScript
+<h3>🔍 WikiSearch</h3>
+<p>Web-based search application for information discovery.</p>
+<b>Tech:</b> HTML, CSS, JavaScript
 
 </td>
 <td width="50%">
 
-### ⚡ CTS Optimization
-
-Genetic algorithm-based optimization of Clock Tree Synthesis to reduce clock skew and insertion delay.
-
-**Tech:** Python, Genetic Algorithm, VLSI
+<h3>⚡ CTS Optimization</h3>
+<p>Genetic algorithm-based Clock Tree Synthesis optimization to reduce skew and insertion delay.</p>
+<b>Tech:</b> Python, Genetic Algorithm, VLSI
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td colspan="2" align="center">
 
-### 🫁 Pneumonia Detection
-
-Attention-enhanced VGG19 model for medical image classification with Grad-CAM explainability.
-
-**Tech:** Python, Deep Learning, VGG19
-
-</td>
-<td width="50%">
-
-### ✅ Todo Application
-
-A simple task management application to organize daily activities.
-
-**Tech:** HTML, CSS, JavaScript
+<h3>✅ Todo Application</h3>
+<p>A task management application for organizing daily activities.</p>
+<b>Tech:</b> HTML, CSS, JavaScript
 
 </td>
 </tr>
 </table>
 
----
 
 <!-- ========== CURRENT FOCUS ========== -->
 
